@@ -1,0 +1,25 @@
+.Toastify__toast {
+  background: rgba(255, 249, 237, 1);
+  border-radius: 0;
+  padding: 16px 20px;
+  border-left: 4px solid #d10001;
+  margin-bottom: 16px;
+}
+
+.toast-title {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 4px;
+  color: #1c1c1c;
+}
+
+.toast-content {
+  font-size: 14px;
+  color: #1c1c1c;
+  line-height: 1.4;
+}
+
+.toast-container {
+  display: flex;
+  align-items: flex-start;
+}

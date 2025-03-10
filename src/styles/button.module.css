@@ -1,0 +1,15 @@
+.customButton {
+  background-color: #1c1c1c;
+  border-color: #1c1c1c;
+  padding: 20px 24px;
+  border-radius: 1px;
+  font-size: 16px;
+  border: none;
+}
+.buttonInner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  width: 100%;
+}
